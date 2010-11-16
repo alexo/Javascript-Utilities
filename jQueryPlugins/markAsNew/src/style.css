@@ -1,0 +1,13 @@
+.markAsNew {
+  display: inline-block;
+  z-index: 5;
+  position: relative;
+}
+.markAsNew .icon {
+  position: absolute;
+  width: 48px;
+  height: 58px;
+  background: url(img/new-32.png) no-repeat;
+  top: 15px;
+  left: 15px;
+}
